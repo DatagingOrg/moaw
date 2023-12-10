@@ -21,7 +21,7 @@ tags: python          # Required. Tags for filtering and searching
 #   - Section 1 title
 #   - Section 2 title
 ---
-![Verne](assets\logo_VerneGroup_color.png)
+![Verne](assets/logo_VerneGroup_color.png)
 
 # Python para principiantes
 
